@@ -1,0 +1,18 @@
+body{
+    margin-left:250px;
+}
+.text{
+    font-size: 20px;
+    font-weight: 400;
+}
+.rty{
+    height: 100px;
+    background-color: #E8E8EA;
+    border-radius: 5px;
+    text-align: center;
+   padding-top: 38px;
+   font-size: 24px;
+}
+.tty{
+    padding-top: 40px;
+}
